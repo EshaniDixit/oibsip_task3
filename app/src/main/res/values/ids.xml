@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="custom_chronometer" type="id" />
+    <item name="btn_start" type="id" />
+    <item name="btn_pause" type="id" />
+    <item name="btn_reset" type="id" />
+</resources>
